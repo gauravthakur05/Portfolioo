@@ -1,111 +1,216 @@
 # 🚀 Gaurav Thakur — Developer Portfolio
 
-A modern, responsive, and interactive developer portfolio built to showcase my **projects, technical skills, certifications, education, and cloud journey**.
+<p align="center">
+  A modern and interactive developer portfolio showcasing my <b>projects, technical skills, certifications, and journey in software development & cloud computing.</b>
+</p>
 
-The portfolio combines a clean developer-focused design with smooth animations, dark/light themes, interactive project cards, a command palette, and a functional contact form.
+---
 
-## ✨ Highlights
+## 👋 About Me
 
-* 🎨 Modern and responsive user interface
-* 🌙 Dark & Light theme support
-* ⚡ Smooth GSAP scroll animations
-* 💻 Interactive terminal-style introduction
-* ⌨️ Command Palette with `Ctrl + K`
-* 🖱️ Custom cursor and magnetic button effects
-* 📊 Animated project and portfolio statistics
-* 🧊 Interactive 3D project card effects
-* 📱 Fully responsive mobile navigation
-* 📬 Functional contact form integration
-* 📄 Direct résumé access
-* 🔗 GitHub and LinkedIn integration
+I'm **Gaurav Thakur**, a B.Tech Computer Science Engineering student at **Lovely Professional University**.
+
+I focus on **Full-Stack Development, Cloud Computing, and DevOps**, with a strong interest in building real-world applications and deploying scalable solutions on the cloud.
+
+Alongside development, I continuously strengthen my **Data Structures & Algorithms** and problem-solving skills to prepare for Software Development Engineer roles.
+
+🎯 Currently open to **Internships and SDE opportunities**.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 💻 Programming Languages
 
-* HTML5
-* CSS3
-* JavaScript
+C++ • Java • Python
 
-**Animations & Interactions**
+### 🎨 Frontend Development
 
-* GSAP
-* ScrollTrigger
-* Canvas API
+HTML • CSS • JavaScript • React
 
-**Integrations**
+### ☁️ Cloud Platforms
 
-* Formspree
-* Google Fonts
+AWS • Microsoft Azure
 
-**Deployment**
+### ⚙️ DevOps & Tools
 
-* GitHub Pages
+Docker • Linux
 
-## 📂 Portfolio Sections
+### 🎯 Core Focus
 
-### 👨‍💻 About
+Full-Stack Development • Cloud Computing • DevOps • Data Structures & Algorithms
 
-A brief introduction about my journey as a **B.Tech Computer Science Engineering student**, with a focus on web development, cloud computing, and software development.
+---
 
-### ⚙️ Skills
+## 🚀 Projects
 
-The portfolio highlights technologies across:
+### 🅿️ Park City
 
-* **Programming:** C++
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js
-* **Cloud & DevOps:** AWS, Azure, Docker
+A responsive smart parking web application designed to address real-world urban parking challenges.
 
-### 🚀 Projects
+**Key Features:**
 
-The portfolio showcases projects across web development and cloud computing, including:
+* Real-time parking zone availability
+* Online parking slot booking
+* Monthly pass management
+* Responsive user interface
 
-* **Park City** — Smart parking web application
-* **Full Stack Task Manager** — Full-stack productivity application
-* **AWS Static Website Hosting** — Cloud-based static website deployment
-* **AWS Auto Scaling Web App** — Highly available and scalable AWS architecture
-* **Portfolio Website** — Responsive personal developer portfolio
+**Tech Stack:** HTML • CSS • JavaScript
 
-### 🎓 Education & Certifications
+---
 
-Includes my academic journey at **Lovely Professional University** along with certifications in areas such as:
+### ✅ Full Stack Task Manager
 
-* Data Structures & Algorithms
-* Oracle Cloud Generative AI
-* Internet of Things
-* Computational Theory & Finite Automata
+A full-stack productivity application for managing daily tasks efficiently.
 
-## 💡 Interactive Features
+**Key Features:**
 
-### Command Palette
+* User authentication and sessions
+* Complete CRUD operations
+* Task management
+* Responsive interface
+
+**Tech Stack:** React • Node.js • MongoDB
+
+---
+
+### ☁️ AWS Static Website Hosting
+
+A production-style static website deployment using AWS cloud services.
+
+**Key Features:**
+
+* Static website hosting using Amazon S3
+* CloudFront CDN for global content delivery
+* Route 53 for domain routing
+* Designed for high availability
+
+**Tech Stack:** AWS S3 • CloudFront • Route 53
+
+---
+
+### ⚡ AWS Auto Scaling Web App
+
+A scalable cloud-based web application architecture designed to handle changing traffic loads.
+
+**Key Features:**
+
+* EC2-based application deployment
+* Application Load Balancer
+* Auto Scaling Group
+* Dynamic resource scaling
+* High-availability architecture
+
+**Tech Stack:** Amazon EC2 • Load Balancer • Auto Scaling
+
+---
+
+### 🌐 Portfolio Website
+
+A modern and responsive personal portfolio showcasing my skills, projects, education, and certifications.
+
+**Key Features:**
+
+* Dark & Light themes
+* Interactive terminal introduction
+* Smooth GSAP animations
+* Command Palette with `Ctrl + K`
+* Responsive design
+* Interactive project cards
+* Functional contact form
+
+**Tech Stack:** HTML • CSS • JavaScript • GSAP
+
+---
+
+## ✨ Portfolio Features
+
+* 🎨 Modern developer-focused UI
+* 🌙 Dark & Light Mode
+* ⚡ Smooth scroll animations
+* 💻 Interactive terminal-style introduction
+* ⌨️ `Ctrl + K` Command Palette
+* 🖱️ Custom cursor effects
+* 🧲 Magnetic button interactions
+* 🧊 Interactive 3D project cards
+* 📊 Animated statistics
+* 📱 Fully responsive design
+* 📬 Functional contact form
+* 📄 Résumé access
+* 🔗 Social profile integration
+
+---
+
+## 🎓 Education
+
+### Bachelor of Technology — Computer Science Engineering
+
+**Lovely Professional University, Punjab**
+2023 — Present
+
+---
+
+## 🏆 Certifications
+
+### 📚 Data Structures & Algorithms — IamNeo
+
+Covered core DSA concepts including arrays, stacks, queues, trees, graphs, sorting, searching, and recursion using C++.
+
+### 🤖 Oracle Cloud Generative AI
+
+Covered Generative AI, Large Language Models, prompt engineering, and prompt optimization using Oracle Cloud Infrastructure AI services.
+
+### 🌐 Internet of Things — NPTEL
+
+Covered IoT architecture, sensors, MQTT, HTTP, CoAP protocols, and cloud integration.
+
+### 🧠 Computational Theory: Language Principle & Finite Automata
+
+Covered formal languages, DFA, NFA, Turing machines, and parsing concepts.
+
+---
+
+## 💡 Interactive Experience
+
+The portfolio includes several interactive features designed to create a unique developer-focused experience.
+
+### ⌨️ Command Palette
 
 Press:
 
 `Ctrl + K`
 
-to quickly navigate through the portfolio, open my GitHub or LinkedIn profile, access my résumé, copy my email address, or switch themes.
+Use the command palette to quickly:
 
-### Terminal Introduction
+* Navigate between portfolio sections
+* Open GitHub
+* Open LinkedIn
+* Access my résumé
+* Copy my email address
+* Switch between Dark and Light themes
 
-The hero section includes an animated developer terminal that introduces my profile, technical interests, certifications, and availability.
+### 💻 Developer Terminal
 
-### Theme Switching
+The hero section features an animated terminal that introduces my profile, technical interests, certifications, and current availability.
 
-Visitors can seamlessly switch between **Dark Mode** and **Light Mode**.
+### 🌙 Theme Switching
+
+The portfolio supports both **Dark Mode** and **Light Mode**, allowing visitors to choose their preferred viewing experience.
+
+---
 
 ## 📱 Responsive Design
 
-The portfolio is optimized for:
+The portfolio is fully responsive and optimized for:
 
-* Desktop
-* Laptop
-* Tablet
-* Mobile
+* 💻 Desktop
+* 🖥️ Laptop
+* 📱 Tablet
+* 📲 Mobile
 
-The layout automatically adapts across different screen sizes with responsive navigation and components.
+---
 
-## 🚀 Getting Started
+## ⚙️ Run Locally
 
 Clone the repository:
 
@@ -119,26 +224,27 @@ Navigate to the project directory:
 cd Portfolio
 ```
 
-Open `index.html` in your browser.
+Open `index.html` directly in your browser or run the project using the **Live Server** extension in VS Code.
 
-You can also use the **Live Server** extension in VS Code for local development.
+---
 
-## 📬 Connect With Me
+## 🤝 Connect With Me
 
 **Gaurav Thakur**
 
-* GitHub: `@gauravthakur05`
-* LinkedIn: `gauravthakur05`
-* Focus: Web Development • Cloud Computing • Software Development
+💻 GitHub: `@gauravthakur05`
+💼 LinkedIn: `gauravthakur05`
 
-I'm currently open to **internships and Software Development Engineer (SDE) opportunities**.
+I'm interested in opportunities related to:
+
+**Full-Stack Development • Software Development • AWS Cloud • Cloud Computing • DevOps**
 
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Gaurav Thakur</strong>
+  Made with ❤️ and ☕ by <strong>Gaurav Thakur</strong>
 </p>
 
 <p align="center">
-  ⭐ If you like this portfolio, consider starring the repository!
+  ⭐ If you like this project, consider giving the repository a star!
 </p>
