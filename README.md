@@ -1,7 +1,7 @@
 # 🚀 Gaurav Thakur — Developer Portfolio
 
 <p align="center">
-  A modern and interactive developer portfolio showcasing my <b>projects, technical skills, certifications, and journey in software development & cloud computing.</b>
+  A modern and interactive developer portfolio showcasing my <b>projects, technical skills, certifications, and journey in Full-Stack Development & Cloud Computing.</b>
 </p>
 
 ---
@@ -10,7 +10,9 @@
 
 I'm **Gaurav Thakur**, a B.Tech Computer Science Engineering student at **Lovely Professional University**.
 
-I focus on **Full-Stack Development, Cloud Computing, and DevOps**, with a strong interest in building real-world applications and deploying scalable solutions on the cloud.
+I'm a **Full-Stack Developer** focused on building modern web applications using the **MERN Stack**, while also expanding my expertise in **Cloud Computing and DevOps**.
+
+I enjoy turning ideas into functional applications — from designing responsive user interfaces and developing backend APIs to working with databases and deploying applications on cloud platforms.
 
 Alongside development, I continuously strengthen my **Data Structures & Algorithms** and problem-solving skills to prepare for Software Development Engineer roles.
 
@@ -22,17 +24,25 @@ Alongside development, I continuously strengthen my **Data Structures & Algorith
 
 ### 💻 Programming Languages
 
-C++ • Java • Python
+C++ • Java • Python • JavaScript
+
+### 🚀 MERN Stack Development
+
+MongoDB • Express.js • React.js • Node.js
 
 ### 🎨 Frontend Development
 
-HTML • CSS • JavaScript • React
+HTML • CSS • JavaScript • React.js
+
+### ⚙️ Backend Development
+
+Node.js • Express.js • MongoDB
 
 ### ☁️ Cloud Platforms
 
 AWS • Microsoft Azure
 
-### ⚙️ DevOps & Tools
+### 🔧 DevOps & Tools
 
 Docker • Linux
 
@@ -68,9 +78,9 @@ A full-stack productivity application for managing daily tasks efficiently.
 * User authentication and sessions
 * Complete CRUD operations
 * Task management
-* Responsive interface
+* Responsive user interface
 
-**Tech Stack:** React • Node.js • MongoDB
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
 
 ---
 
@@ -125,19 +135,19 @@ A modern and responsive personal portfolio showcasing my skills, projects, educa
 
 ## ✨ Portfolio Features
 
-* 🎨 Modern developer-focused UI
+* 🎨 Modern developer-focused user interface
 * 🌙 Dark & Light Mode
-* ⚡ Smooth scroll animations
+* ⚡ Smooth GSAP scroll animations
 * 💻 Interactive terminal-style introduction
 * ⌨️ `Ctrl + K` Command Palette
 * 🖱️ Custom cursor effects
 * 🧲 Magnetic button interactions
 * 🧊 Interactive 3D project cards
-* 📊 Animated statistics
+* 📊 Animated portfolio statistics
 * 📱 Fully responsive design
 * 📬 Functional contact form
-* 📄 Résumé access
-* 🔗 Social profile integration
+* 📄 Direct résumé access
+* 🔗 GitHub and LinkedIn integration
 
 ---
 
@@ -154,7 +164,7 @@ A modern and responsive personal portfolio showcasing my skills, projects, educa
 
 ### 📚 Data Structures & Algorithms — IamNeo
 
-Covered core DSA concepts including arrays, stacks, queues, trees, graphs, sorting, searching, and recursion using C++.
+Covered core Data Structures and Algorithms concepts including arrays, stacks, queues, trees, graphs, sorting, searching, and recursion using C++.
 
 ### 🤖 Oracle Cloud Generative AI
 
@@ -172,7 +182,7 @@ Covered formal languages, DFA, NFA, Turing machines, and parsing concepts.
 
 ## 💡 Interactive Experience
 
-The portfolio includes several interactive features designed to create a unique developer-focused experience.
+The portfolio includes several interactive features designed to create a modern developer-focused experience.
 
 ### ⌨️ Command Palette
 
@@ -191,7 +201,7 @@ Use the command palette to quickly:
 
 ### 💻 Developer Terminal
 
-The hero section features an animated terminal that introduces my profile, technical interests, certifications, and current availability.
+The hero section features an animated developer terminal that introduces my profile, technical interests, certifications, and current availability.
 
 ### 🌙 Theme Switching
 
@@ -214,13 +224,13 @@ The portfolio is fully responsive and optimized for:
 
 Clone the repository:
 
-```bash
+```bash id="4fvyhq"
 git clone https://github.com/gauravthakur05/Portfolio.git
 ```
 
 Navigate to the project directory:
 
-```bash
+```bash id="ow2u5w"
 cd Portfolio
 ```
 
@@ -237,7 +247,7 @@ Open `index.html` directly in your browser or run the project using the **Live S
 
 I'm interested in opportunities related to:
 
-**Full-Stack Development • Software Development • AWS Cloud • Cloud Computing • DevOps**
+**Full-Stack Development • MERN Stack • Software Development • AWS Cloud • Cloud Computing • DevOps**
 
 ---
 
