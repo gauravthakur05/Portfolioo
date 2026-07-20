@@ -1,4 +1,4 @@
-# 🚀 Gaurav Thakur — Developer Portfolio
+# 🚀 Gaurav Thakur - Developer Portfolio
 
 <p align="center">
   A modern and interactive developer portfolio showcasing my <b>projects, technical skills, certifications, and journey in Full-Stack Development & Cloud Computing.</b>
