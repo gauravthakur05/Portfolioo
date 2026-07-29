@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 👋 About Me
 
 I'm **Gaurav Thakur**, a B.Tech Computer Science Engineering student at **Lovely Professional University**.
