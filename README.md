@@ -18,6 +18,7 @@ Alongside development, I continuously strengthen my **Data Structures & Algorith
 
 🎯 Currently open to **Internships and SDE opportunities**.
 
+
 ---
 
 ## 🛠️ Tech Stack
